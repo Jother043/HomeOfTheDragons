@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeOfTheDragon</string>
+    <string name="greeting">Bien venido sir, ¿Con quien tengo el placer de hablar!</string>
+    <string name="responder">Responder</string>
+    <string name="name">Name</string>
+    <string name="Pepito" />
+    <string name="election">sir %s, es el momento de que tomes una difícil elección...
+    El rey Viserys ha muerto...Debes elegir a su sucesor como rey de los Ándalos y de los primeros
+    hombres, señor de los sieste reinos. Para ello debes decidir entre apoyar a...</string>
+    <string name="noelegido">Si no tomas una decisión no podrás salir de esta encrucijada</string>
+</resources>
